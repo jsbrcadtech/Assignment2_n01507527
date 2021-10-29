@@ -12,7 +12,7 @@ namespace Assignment2.Controllers
     {
         // **** J3 Attempt - Coudl'nt finish it properly. **** 
 
-        //Chritine, I tried adapting this J3 as you did with those in-class examples as well as what I did for my J1 and J2. 
+        //Christine, I tried adapting this J3 as you did with those in-class examples as well as what I did for my J1 and J2. 
         //Even with that I wasn't able to figure out how to code the input in a way it could be several ones as the J3 problem suggested.
         // In this problem the input could be several instructions to finally get to school( The rest of the problem I managed to do which was really the opposite way with home as final destination)
         // In other words, even if I tried to pass a few arguments in I wasn't able to code for what the problem is asking for.
