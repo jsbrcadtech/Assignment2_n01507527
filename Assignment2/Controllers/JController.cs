@@ -10,7 +10,7 @@ namespace Assignment2.Controllers
 {
     public class JController : ApiController
     {
-        // **** J3 Attempt - Coudl'nt finish it properly. **** 
+        // **** J3 Attempt - Couldn't finish it properly. **** 
 
         //Christine, I tried adapting this J3 as you did with those in-class examples as well as what I did for my J1 and J2. 
         //Even with that I wasn't able to figure out how to code the input in a way it could be several ones as the J3 problem suggested.
